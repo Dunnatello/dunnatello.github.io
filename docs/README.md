@@ -4,10 +4,10 @@ This website contains some of my personal and professional projects with informa
 
 ## GitHub Profile
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/11823777" width="400"></img>
+  <img src="https://avatars.githubusercontent.com/u/11823777" width="400" />
 </p>
 
-# <p align="center">[Dunnatello](https://www.github.com/Dunnatello)</p>
+# [Dunnatello](https://www.github.com/Dunnatello)
 You can find my GitHub profile here if you're interested in seeing my contribution history.
 
 ## 🚀 Projects
