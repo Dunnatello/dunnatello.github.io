@@ -4,7 +4,7 @@ This website contains some of my personal and professional projects with informa
 
 ## GitHub Profile
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/11823777" width="400" />
+  <kbd><img src="https://avatars.githubusercontent.com/u/11823777" width="400" /></kbd>
 </p>
 
 # [Dunnatello](https://www.github.com/Dunnatello)
