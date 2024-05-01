@@ -3,9 +3,11 @@
 This website contains some of my personal and professional projects with information about what I achieved and learned from each one.
 
 ## GitHub Profile
-<p align="center"><img src="https://avatars.githubusercontent.com/u/11823777" width="400"></img></p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/11823777" width="400"></img>
+</p>
 
-# <p align="center"> [Dunnatello](https://www.github.com/Dunnatello)</p>
+# <p align="center">[Dunnatello](https://www.github.com/Dunnatello)</p>
 You can find my GitHub profile here if you're interested in seeing my contribution history.
 
 ## 🚀 Projects
