@@ -1,6 +1,6 @@
 # Dunnatello's Portfolio
 ## Hello, there 🌊
-This website contains all of my personal and professional projects with information about what I achieved and learned from each one.
+This website contains some of my personal and professional projects with information about what I achieved and learned from each one.
 
 ## GitHub Profile
 <p align="center"><img src="https://avatars.githubusercontent.com/u/11823777" width="400"></img></p>
