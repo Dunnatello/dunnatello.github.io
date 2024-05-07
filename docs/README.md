@@ -18,7 +18,7 @@ You can find my GitHub profile here if you're interested in seeing my contributi
 
 <p><i>XR Training Simulation for Teacher Education</i> is a classroom de-escalation training simulation software designed by myself and my other group members for our senior capstone project. This project features advanced animation systems and complex narrative design.</p>
 
-📃 [Details](docs/XRSimulation.md)
+📃 [Details](https://dunnatello.github.io/XRSimulation)
 
 ### 2. Asteroid Crashers
 <p align="center"><kbd><img src="images/AsteroidCrashersGraph.png" width="750"></kbd></p>
