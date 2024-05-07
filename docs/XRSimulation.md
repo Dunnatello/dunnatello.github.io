@@ -134,11 +134,11 @@ This project has taught us how to implement complex animation systems to achieve
 
 | Team Member | Roles |
 | :-------------: | ------------- |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/84809371" width="40"><br>[@DifferentFusion](https://github.com/DifferentFusion)</p> | Backend Developer, UI Developer, Quality Assurance, Technical Scribe, Animator |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/11823777" width="40"><br>[@Dunnatello](https://www.github.com/Dunnatello)</p> | Project Lead, UI/UX Designer/Developer, Level Design, Backend Developer, Technical Scribe, Narrative Design, XR Interaction, Animator, Graphic Design, Video Editing |
-| <img src="https://avatars.githubusercontent.com/u/156843650" width="40"><p>[@HudHopp](https://github.com/HudHopp)</p> | Quality Assurance, Technical Scribe, XR Interaction, Narrative Design, Narration, Voice Acting |
-| <img src="https://avatars.githubusercontent.com/u/156846569" width="40"><p>[@JeckoEcko](https://github.com/JeckoEcko)</p> | Notetaker, Technical Scribe, Level Design |
-| <img src="https://avatars.githubusercontent.com/u/156844524" width="40"><p>[@JoeHovahsWitnes](https://github.com/JoeHovahsWitnes)</p> | Team Contact, Level Design, XR Interaction, Narrative Design, Animation, Voice Acting |
+| <img src="https://avatars.githubusercontent.com/u/84809371" width="40"><br>[@DifferentFusion](https://github.com/DifferentFusion) | Backend Developer, UI Developer, Quality Assurance, Technical Scribe, Animator |
+| <img src="https://avatars.githubusercontent.com/u/11823777" width="40"><br>[@Dunnatello](https://www.github.com/Dunnatello) | Project Lead, UI/UX Designer/Developer, Level Design, Backend Developer, Technical Scribe, Narrative Design, XR Interaction, Animator, Graphic Design, Video Editing |
+| <img src="https://avatars.githubusercontent.com/u/156843650" width="40"><br>[@HudHopp](https://github.com/HudHopp) | Quality Assurance, Technical Scribe, XR Interaction, Narrative Design, Narration, Voice Acting |
+| <img src="https://avatars.githubusercontent.com/u/156846569" width="40"><br>[@JeckoEcko](https://github.com/JeckoEcko) | Notetaker, Technical Scribe, Level Design |
+| <img src="https://avatars.githubusercontent.com/u/156844524" width="40"><br>[@JoeHovahsWitnes](https://github.com/JoeHovahsWitnes) | Team Contact, Level Design, XR Interaction, Narrative Design, Animation, Voice Acting |
 
 ## Licensing
 This project is owned by the University of South Alabama. However, I have received a license to continue the project further as the lead inventor of the software. If you are interested in this project's future, you can contact me using the email provided in my GitHub profile [here](https://github.com/Dunnatello).
