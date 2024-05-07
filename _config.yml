@@ -8,3 +8,9 @@ markdown: GFM
 #baseurl: ""
 url: "https://dunnatello.github.io"
 
+collections:
+  docs:
+    output: true
+    source: docs
+
+
