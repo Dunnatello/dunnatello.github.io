@@ -89,10 +89,10 @@ uLipSync can be found here: [hecomi/uLipSync](https://github.com/hecomi/uLipSync
 
 ### Optimization for Quest 2 Headsets
 <p></p>While working on this project, we ran into different challenges when developing standalone VR experiences. Since resources are limited on standalone VR headsets compared to traditional PC VR capabilities, we had to adapt and continuously test different strategies to improve performance over time.</p>
-<p></p>For example, I was originally planning on incorporating a realistic glass shader for the UI menus present in the lobby along with the classroom scenes. However, while testing, we noticed that performance dropped significantly when looking at the UI, so we ultimately decided to revert to a simple transparent “URP/Lit” shader.</p>
+<p>For example, I was originally planning on incorporating a realistic glass shader for the UI menus present in the lobby along with the classroom scenes. However, while testing, we noticed that performance dropped significantly when looking at the UI, so we ultimately decided to revert to a simple transparent “URP/Lit” shader.</p>
 
 <div align="center">
-  <video width="640" height="1437" autoplay muted>
+  <video width="640" height="214" autoplay muted>
     <source type="video/mp4" src="videos/Occlusion Culling.mp4">
   </video>
 </div>
