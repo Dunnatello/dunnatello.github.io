@@ -21,7 +21,7 @@
 
 <div align="center">
   <video width="400" height="225" controls>
-    <source type="video/mp4" src="https://dunnatello.github.io/docs/videos/XR Simulation Scenario Selection UI.mp4">
+    <source type="video/mp4" src="videos/XR Simulation Scenario Selection UI.mp4">
   </video>
 </div>
 <p align="center"><b>Figure 1:</b> Users can select between "Primary" and "Secondary" education categories and pick a scenario in the grid layout.</p>
