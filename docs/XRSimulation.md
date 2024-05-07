@@ -1,7 +1,9 @@
+<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XRSimulation%20Graph.png"></p>
+
 # XR Training Simulation for Teacher Education
-<p align="center"><img src="https://github.com/CIS-498-FiveGuys/XRSimulation/blob/main/Assets/Game/UI/Logos/XRSimulationLogo.png" width="250"></img></p>
+<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XRSimulationLogo.png" width="250"></p>
 <h2 align="center">A VR de-escalation simulation for student teachers.</h2>
-<p align="center"><img src="https://github.com/CIS-498-FiveGuys/XRSimulation/blob/main/GitHub%20Readme%20Content/Alpha%2002%20Screenshot.png" width="750"></img></p>
+<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XR%20Simulation%20Alpha%2002%20Screenshot.png" width="750"></p>
 
 ## Description
 <p>My team was tasked with developing an interactive virtual reality simulation. This simulation is designed to expose student teachers to a classroom environment and allow them to practice de-escalation scenarios that may arise during their careers.</p>
@@ -11,7 +13,6 @@
 ## Lessons Learned
 ### Summary
 <p>In this project, I learned numerous different skills that can be used in future game and simulation development projects. After completing this project, I have gained a greater understanding of simulation software development and team coordination and collaboration. My team faced numerous challenges, but we solved these challenges and produced a great minimum-viable product that can be expanded in the future.</p>
-
 
 ### User Interfaces
 <p>Before starting this project, I had already worked on numerous user interfaces (UI) for my projects, so I had experience with designing UI previously. However, designing user interfaces for VR experiences is slightly different since it requires UI to be physically placed in the world and not attached to the user's camera. We were debating on diegetic (integrated into the story) or non-diegetic interfaces for the user to use to adjust their preferences and interact with the scenarios.</p>
