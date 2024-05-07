@@ -5,12 +5,5 @@ plugins:
 title: Dunnatello's Portfolio
 show_downloads: false
 markdown: GFM
-#baseurl: ""
 url: "https://dunnatello.github.io"
-
-collections:
-  docs:
-    output: true
-    source: docs
-
 
