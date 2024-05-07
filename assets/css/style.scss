@@ -1,8 +1,4 @@
 ---
 ---
 
-@import "jekyll-theme-tactile";
-
-.centeredText {
-    text-align: center;
-}
+@import "{{ site.theme }}";
