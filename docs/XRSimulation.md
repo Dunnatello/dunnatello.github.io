@@ -133,7 +133,7 @@ This project has taught us how to implement complex animation systems to achieve
 ## Development Team
 
 | Team Member | Roles |
-| ------------- | ------------- |
+| :-------------: | ------------- |
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/84809371" width="40"></img><br>[@DifferentFusion](https://github.com/DifferentFusion)</p> | Backend Developer, UI Developer, Quality Assurance, Technical Scribe, Animator |
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/11823777" width="40"></img><br>[@Dunnatello](https://www.github.com/Dunnatello)</p> | Project Lead, UI/UX Designer/Developer, Level Design, Backend Developer, Technical Scribe, Narrative Design, XR Interaction, Animator, Graphic Design, Video Editing |
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/156843650" width="40"></img><br>[@HudHopp](https://github.com/HudHopp)</p> | Quality Assurance, Technical Scribe, XR Interaction, Narrative Design, Narration, Voice Acting |
