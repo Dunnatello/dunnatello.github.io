@@ -20,19 +20,23 @@
 <p>Ultimately, we went with non-diegetic interfaces for our project due to time constraints and ease of use.</p>
 
 <div align="center">
-  <video width="400" height="225" controls>
+  <video width="640" height="480" controls>
     <source type="video/mp4" src="videos/XR Simulation Scenario Selection UI.mp4">
   </video>
 </div>
 <p align="center"><b>Figure 1:</b> Users can select between "Primary" and "Secondary" education categories and pick a scenario in the grid layout.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/8f5ccb07-fab6-4286-9edf-dbee473f9b99" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/XR Simulation Settings UI.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 2:</b> Users can adjust their settings by selecting a settings section and adjusting the values.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/383059ce-5fe5-4f5a-9656-ff4e39e25522" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/XR Simulation Record Player.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 3:</b> A music player with an accompanying UI is included in the lobby scene. The record player features a spinning turntable and a moving tonearm.</p>
     
@@ -40,7 +44,9 @@
 <p>Blend shapes are used in animation to morph shapes to transition between different sets of geometry. In this project, I used the blend shapes created in the modular character pack to make the characters more immersive. I used the blend shapes to trigger blinking, animate eye movement, show emotions, as well as display realistic realtime lip sync. Learning about blend shapes will allow me to work on future projects that feature immersive characters and cinematics.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/4fce6754-22a6-498f-bb95-26ff4d5341e9" width="400">
+  <video width="640" height="640" autoplay muted>
+    <source type="video/mp4" src="videos/Emotion Cycling Closeup.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 4:</b> Blend shapes included with the character package were used to create dynamic and realistic characters.</p>
 
@@ -50,26 +56,33 @@
 uLipSync can be found here: [hecomi/uLipSync](https://github.com/hecomi/uLipSync).
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/d2a75286-1b32-407f-b5b2-2bfed4d96d00" width="400">
+  <video width="640" height="640" autoplay muted>
+    <source type="video/mp4" src="videos/Lip Sync Mouth Movement.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 5:</b> Using uLipSync allowed us to implement realistic realtime lip syncing for student NPCs.</p>
 
 ### Narrative-Driven Gameplay
 <p>Throughout the project, I had to design systems (and provided pseudocode to my team members) that would adapt to fit our narrative design. My team had to complete complex tasks to create the right solution to fit our scenario narratives, so we can now understand how complex narrative experiences integrate with cinematics to form a complete product. Additionally, working with Yarn Spinner has allowed us to develop branching narratives and we can use those skills in future narrative-driven projects.</p>
 
-
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/ed3c2858-da58-438c-af5c-ea83f49b4d56" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/XR Simulation Introduction.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 6:</b> Users are introduced to the scenario with an introduction video.</p>
     
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/f180d661-1786-4902-bdb8-e2e7ee7d49e2" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/Narrative Dialogue.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 7:</b> The user can choose between multiple dialogue options to advance the narrative.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/b5788212-74d8-4e0f-8f99-9ea33bb49c57" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/Choice Feedback.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 8:</b> After the scenario ends, users can view videos that explain the best choice for each objective.</p>
 
@@ -78,9 +91,10 @@ uLipSync can be found here: [hecomi/uLipSync](https://github.com/hecomi/uLipSync
 <p></p>While working on this project, we ran into different challenges when developing standalone VR experiences. Since resources are limited on standalone VR headsets compared to traditional PC VR capabilities, we had to adapt and continuously test different strategies to improve performance over time.</p>
 <p></p>For example, I was originally planning on incorporating a realistic glass shader for the UI menus present in the lobby along with the classroom scenes. However, while testing, we noticed that performance dropped significantly when looking at the UI, so we ultimately decided to revert to a simple transparent “URP/Lit” shader.</p>
 
-
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/cbd4edcc-65cd-4921-bcd3-8b8b6b02a3f5" width="400">
+  <video width="640" height="1437" autoplay muted>
+    <source type="video/mp4" src="videos/Occlusion Culling.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 9:</b> We utilized Unity's occlusion culling system along with a custom frustum culling solution that I designed for NPCs to optimize performance.</p>
 
@@ -88,17 +102,23 @@ uLipSync can be found here: [hecomi/uLipSync](https://github.com/hecomi/uLipSync
 This project has taught us how to implement complex animation systems to achieve our goals. By designing animation systems to support our narrative design, we were able to learn how to use Unity’s animation system to its full potential by using animation events, creating a few of our animations, and using free animations from Adobe Mixamo for our characters. Additionally, implementing and troubleshooting a system that swaps between animation controllers to allow characters to flip desks within the scene allowed us to understand how professional game developers accomplish the same tasks in their work.
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/dd22ce1c-2abc-4ecd-bd2a-ce2041aaf7e6" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/XR Simulation Students Entering Classroom.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 10:</b> Students enter the classroom and sit at assigned seats that are controlled by a desk management system. The system supports multiple walking and sitting styles.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/90dd5622-5be5-4580-ae7e-be2f6a8637e7" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/Distracted Student Animation.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 11:</b> Additional animations are implemented to make the narratives more immersive.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/b582cf79-53e3-443d-bd79-37997a521f54" width="400">
+  <video width="640" height="480" controls>
+    <source type="video/mp4" src="videos/Flip Desk Animation System.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 12:</b> The desk flip system utilizes multiple animation controllers running simultaneously to show the desk flip animation.</p>
 
