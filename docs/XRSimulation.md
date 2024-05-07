@@ -131,6 +131,7 @@ This project has taught us how to implement complex animation systems to achieve
 <p>After completing this project, I am now confident in my ability to work on complicated game development projects in the future. I gained numerous important skills from this project such as cinematic design, advanced animation systems, lip syncing, branching narrative development, and optimization. I am thankful for this valuable experience that this project has taught me and I am excited to use my newly acquired skills in future projects.</p>
 
 ## Development Team
+
 | Team Member | Roles |
 | ------------- | ------------- |
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/84809371" width="40"></img><br>[@DifferentFusion](https://github.com/DifferentFusion)</p> | Backend Developer, UI Developer, Quality Assurance, Technical Scribe, Animator |
