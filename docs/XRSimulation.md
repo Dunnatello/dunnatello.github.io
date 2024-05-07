@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XRSimulation%20Graph.png"></p>
 
 # XR Training Simulation for Teacher Education
-<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XRSimulationLogo.png" width="250"></p>
+<p align="center"><img src="images/XRSimulationLogo.png" width="250"></p>
 <h2 align="center">A VR de-escalation simulation for student teachers.</h2>
-<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XR%20Simulation%20Alpha%2002%20Screenshot.png" width="750"></p>
+<p align="center"><img src="images/XR%20Simulation%20Alpha%2002%20Screenshot.png" width="750"></p>
 
 ## Description
 <p>My team was tasked with developing an interactive virtual reality simulation. This simulation is designed to expose student teachers to a classroom environment and allow them to practice de-escalation scenarios that may arise during their careers.</p>
@@ -20,7 +20,7 @@
 <p>Ultimately, we went with non-diegetic interfaces for our project due to time constraints and ease of use.</p>
 
 <div align="center">
-  <video src="https://github.com/Dunnatello/dunnatello.github.io/assets/11823777/6386dc16-db0c-4f10-8ef3-67da1788ab51" width="400">
+  <video src="assets/11823777/6386dc16-db0c-4f10-8ef3-67da1788ab51" width="400">
 </div>
 <p align="center"><b>Figure 1:</b> Users can select between "Primary" and "Secondary" education categories and pick a scenario in the grid layout.</p>
 
