@@ -27,7 +27,15 @@ You can find my GitHub profile here if you're interested in seeing my contributi
 
 🤖 [Repository](https://github.com/Dunnatello/AsteroidCrashers/)
 
-### 3. Burn it Up!
+
+### 3. Visions
+<p align="center"><kbd><img src="images/Visions%20Graph.png" width="750"></kbd></p>
+
+<p><i>Visions</i> is a game designed by myself and my friend for our Advanced Game & Simulation Development course. This project demonstrates ballistic weapon physics in a endless zombie shooter Unity game.</p>
+
+🤖 [Repository](https://github.com/Dunnatello-DifferentFusion/Visions)
+
+### 4. Burn it Up!
 <p align="center"><kbd><img src="images/BurnItUp%20Graph.png" width="750"></kbd></p>
 
 <p><i>Burn it Up!</i> is a weight loss app designed by myself along with my other group members for our Software Engineering Principles course project. In this project, we implemented a weight loss application in Solar2D/Lua.</p>
