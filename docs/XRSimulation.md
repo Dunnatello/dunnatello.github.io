@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Dunnatello/dunnatello.github.io/blob/main/docs/images/XRSimulation%20Graph.png"></p>
+<p align="center"><img src="images/XRSimulation%20Graph.png"></p>
 
 # XR Training Simulation for Teacher Education
 <p align="center"><img src="images/XRSimulationLogo.png" width="250"></p>
@@ -20,7 +20,9 @@
 <p>Ultimately, we went with non-diegetic interfaces for our project due to time constraints and ease of use.</p>
 
 <div align="center">
-  <video src="assets/11823777/6386dc16-db0c-4f10-8ef3-67da1788ab51" width="400">
+  <video width="400" height="225" controls>
+    <source type="video/mp4" src="https://dunnatello.github.io/docs/videos/XR Simulation Scenario Selection UI.mp4">
+  </video>
 </div>
 <p align="center"><b>Figure 1:</b> Users can select between "Primary" and "Secondary" education categories and pick a scenario in the grid layout.</p>
 
