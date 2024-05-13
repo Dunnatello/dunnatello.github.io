@@ -142,7 +142,7 @@ This project has taught us how to implement complex animation systems to achieve
 | <img src="https://avatars.githubusercontent.com/u/156844524" width="40"><br>[@JoeHovahsWitnes](https://github.com/JoeHovahsWitnes) | Team Contact, Level Design, XR Interaction, Narrative Design, Animation, Voice Acting |
 
 ## Licensing
-This project is owned by the University of South Alabama. However, I have received a license to continue the project further as the lead inventor of the software. If you are interested in this project's future, you can contact me using the email provided in my GitHub profile [here](https://github.com/Dunnatello).
+If you are interested in utilizing the software, you can contact me using the email provided in my GitHub profile [here](https://github.com/Dunnatello).
 
 ## Technical Specifications  
 ### <b>Unity Version: Unity 2022</b>
