@@ -149,5 +149,5 @@ If you are interested in utilizing the software, you can contact me using the em
 <p>Designed for Meta Quest 2/3 headsets.</p>
 
 ### Sources
-All of the assets used in the project can be found [here](https://docs.google.com/document/d/16Rp-RRL5vdTZy2AUtlG-tI08i27hq_MzDC5LiRIBjWk).
+All of the third party assets used in the project can be found [here](https://docs.google.com/document/d/16Rp-RRL5vdTZy2AUtlG-tI08i27hq_MzDC5LiRIBjWk).
 
