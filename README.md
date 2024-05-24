@@ -1,4 +1,8 @@
 # Dunnatello's Portfolio
+
+# 🚧 Portfolio Moved 🚧
+## <b>My portfolio has been moved to [here](https://dunnatello.com/). Check that one out instead!</b>
+
 ## Hello, there 🌊
 This website contains some of my personal and professional projects with information about what I achieved and learned from each one.
 
